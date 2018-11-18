@@ -1,3 +1,4 @@
+package functionalInterfacesAndStreams;
 
 public class Curso {
 	
